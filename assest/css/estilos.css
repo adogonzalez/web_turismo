@@ -1,0 +1,48 @@
+#logo{
+    width: auto;
+    height: 150px;
+}
+#banner{
+    background-image: url('../img/shutterstock_116403520.jpg');
+    background-size: cover;
+    background-position: center -180px;
+    height: 350px;
+}
+#box-content{
+    border: 1px solid rgb(9, 160, 165);
+}
+#box-content img{
+    width: 100px;
+}
+.footer-v1.bg-img {
+  background-color: black;
+  background-repeat: repeat;
+}
+.headline {
+    display: block;
+    margin: 10px 0 25px 0;
+    border-bottom: 1px dotted #e4e9f0;
+  color: white;
+  font-size: 20px;
+}
+.headline p {
+    margin: 0 0 -2px 0;
+    padding-bottom: 5px;
+    display: inline-block;
+    border-bottom: 2px solid #7e57c2;
+}
+.link-list > li{
+  padding: 7px 0px;
+}
+.link-list > li > a , .link-list > li> i{
+  color:#eee;
+  font-size: 16px;
+}
+footer{
+     height: 250px;
+     background-color: gray;
+     color: aliceblue ;
+}
+ .vaile{
+  height: 30px;
+}
